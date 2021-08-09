@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Joseph Cross
+description: Joseph Cross is a PhD candidate in Egyptology and Hebrew Bible in the Dept. of Near Eastern Languages and Civilizations at the University of Chicago.
+keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chicago, Demotic
 ---
 
 <div class="navbar">
