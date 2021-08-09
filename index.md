@@ -20,7 +20,7 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
 <tr>
   <td class="left">
     <a href="publpics/pspiegelberg.html">
-        <img src="publpics/pspiegelberg.png" alt="Portion of Papyrus Spiegelberg, col. 7" title="Portion of Papyrus Spiegelberg, col. 7"/>
+        <img src="publpics/pspiegelberg.png" alt="Closeup of Papyrus Spiegelberg, col. 7" title="Portion of Papyrus Spiegelberg, col. 7"/>
     </a>
   </td>
   <td class="right">
