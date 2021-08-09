@@ -8,10 +8,10 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>
+          <li><a href="https://github.com/jjjjjjjjjjcross">github</a></li>
+          <li><a href="{{ BASE_PATH}}/blog.html">blog</a></li>
+          <li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>
       </ul>
   </div>
 </div>
