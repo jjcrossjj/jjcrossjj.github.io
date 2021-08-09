@@ -19,8 +19,8 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="publpics/iplotCorr.html">
-        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="publpics/pspiegelberg.html">
+        <img src="publpics/pspiegelberg.png" alt="Portion of Papyrus Spiegelberg, col. 7" title="Portion of Papyrus Spiegelberg, col. 7"/>
     </a>
   </td>
   <td class="right">
