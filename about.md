@@ -4,43 +4,22 @@ title: about
 description: Joseph Cross
 ---
 
-Joey Cross is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+Joey Cross is a PhD candidate in the [Department of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago. He is an Egyptologist and a Hebrew Bible scholar, and has fulfilled the PhD requirements for both Egyptology and the Hebrew Bible and Northwest Semitics programs in his department. His advisor in the latter is Dennis Pardee, and in the former, the late Robert Ritner. His dissertation committee consists of Dennis Pardee (chair), Brian Muhs (Egyptology, NELC), and Simeon Chavel (Divinity School of the University of Chicago).
 
-Karl received a BS in [mathematics](https://uwm.edu/math)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](https://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+Joey's dissertation is entitled "Egyptian and Judean Novellas of the Achaemenian and Graeco-Roman Periods."
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. He is enthusiastic about the value
-of interactive data visualizations for exploring high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts/).
+Joey previously received a BS in Classics and Plan II Honors (2006) from the University of Texas at Austin, an MA in Theology (2011) at the University of Dallas, and MA in Near Eastern Languages and Civilizations (2014) at the University of Chicago.
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
-[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
-<!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-[github](https://github.com/kbroman)<br/>
-[blog](https://kbroman.org/blog/) <br/>
+He taught in the Writing Program at the University of Chicago from 2016-2018, and won the Karen Dinal Memorial Award for teaching writing. From 2018-2020, at the University of North Carolina Asheville, he taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. He also occasionally teaches adult education courses at the Oriental Institute of the University of Chicago, on topics in biblical studies and the history and archaeology of the Levant.
+
+Joey grew up in Lafayette, LA, and has lived in Texas, Illinois, and North Carolina. He currently lives in Kill Devil Hills, NC with his spouse and children, and is writing.
+
 he/him
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
+[academia.edu](https://chicago.academia.edu/JosephCross)
+[github](https://github.com/jjjjjjjjjjcross)<br/>
+[blog](https://jjjjjjjjjjcross.com/blog/) <br/>
+
 
 ---
 
@@ -49,26 +28,21 @@ he/him
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Joseph Cross<br/>
+            <a href="https://nelc.uchicago.edu">Department of Near Eastern Languages and Civilizations</a><br/>
+            <a href="https://www.uchicago.edu">University of Chicago</a><br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>jjcr</code><b>I</b><code>oss</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>uchi</code><b>leave
+            </b><code>cago</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="../pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../pics/me.jpg">
+            <img src="../pics/me_small.jpg"
+                  title="Joseph Cross" alt="Joseph Cross"/></a>
         </div>
     </div>
 </div>
