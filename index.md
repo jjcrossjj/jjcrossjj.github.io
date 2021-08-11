@@ -50,4 +50,4 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
           <li><a href="morefigs.html"> </a></li>
       </ul>
   </div>
-</div)
+</div>
