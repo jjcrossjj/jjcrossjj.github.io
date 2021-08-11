@@ -31,8 +31,8 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
 </tr>
 <tr>
   <td class="left">
-    <a href="publpics/samplemixups_fig7.html">
-        <img src="publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+    <a href="publpics/SemiticTexts.fig2.html">
+        <img src="publpics/SemiticTexts.fig2.png" alt="Northwest Semitic text in P. Anastasi I" title="Northwest Semitic text in P. Anastasi I"/>
     </a>
   </td>
   <td class="right">
