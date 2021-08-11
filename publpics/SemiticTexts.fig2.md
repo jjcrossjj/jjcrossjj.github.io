@@ -14,4 +14,4 @@ title: Northwest Semitic text in P. Anastasi I
 
 Northwest Semitic text in P. Anastasi I
 
-![Portion of Papyrus Spiegelberg, col. 7](bigpublpics/SemiticTexts.fig2.png)
+![Portion of Papyrus Spiegelberg, col. 7](..bigpublpics/SemiticTexts.fig2.png)
