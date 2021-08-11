@@ -24,9 +24,8 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
     </a>
   </td>
   <td class="right">
-    <a href="publpics/mppdiag_fig4.html">
-        <img src="publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+    <a href="publpics/elevator.html">
+        <img src="publpics/elevator.jpg" alt="Grain elevator" title="Grain elevator"/>
     </a>
   </td>
 </tr>
