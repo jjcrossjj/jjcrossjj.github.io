@@ -10,7 +10,7 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>
           <li><a href="https://github.com/jjjjjjjjjjcross">github</a></li>
-          <li><a href="{{ BASE_PATH}}/blog.html">blog</a></li>
+          <li><a href="{{ BASE_PATH}}/blog">blog</a></li>
           <li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>
       </ul>
   </div>
