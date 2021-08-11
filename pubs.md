@@ -7,13 +7,15 @@ description: Joseph Cross's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#chapters">book chapters</a><li>
-            <li><a href="#otherarticles">articles</a><li>
+            <!--<li><a href="#current">current courses</a></li>
+            <li><a href="#shortcourses">short courses</a></li>
+            <li><a href="#misc">misc lectures</a></li>-->
+            <li><a href="#chapters">chapters</a></li>
+            <li><a href="#otherarticles">articles</a></li>
             <li><a href="#reviews">reviews</a></li>
         </ul>
     </div>
 </div>
-
 
 ### <a name="chapters"></a>chapters
 
