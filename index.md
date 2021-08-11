@@ -23,16 +23,16 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
         <img src="publpics/pspiegelberg.png" alt="Closeup of Papyrus Spiegelberg, col. 7" title="Portion of Papyrus Spiegelberg, col. 7"/>
     </a>
   </td>
-  <td class="right">
-    <a href="publpics/elevator.html">
-        <img src="publpics/elevator.jpg" alt="Grain elevator" title="Grain elevator"/>
+  <td class="left">
+    <a href="publpics/SemiticTexts.fig2.html">
+        <img src="publpics/SemiticTexts.fig2.png" alt="Northwest Semitic text in P. Anastasi I" title="Northwest Semitic text in P. Anastasi I"/>
     </a>
   </td>
 </tr>
 <tr>
-  <td class="left">
-    <a href="publpics/SemiticTexts.fig2.html">
-        <img src="publpics/SemiticTexts.fig2.png" alt="Northwest Semitic text in P. Anastasi I" title="Northwest Semitic text in P. Anastasi I"/>
+  <td class="right">
+    <a href="publpics/elevator.html">
+        <img src="publpics/elevator.jpg" alt="Grain elevator" title="Grain elevator"/>
     </a>
   </td>
   <td class="right">
