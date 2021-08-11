@@ -4,7 +4,7 @@ title: about
 description: Joseph Cross
 ---
 
-Joey Cross is a PhD candidate in the [Department of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago. He is an Egyptologist and a Hebrew Bible scholar, and has fulfilled the PhD requirements for both Egyptology and the Hebrew Bible and Northwest Semitics programs in his department. His advisor in the latter is Dennis Pardee, and in the former, the late Robert Ritner. His dissertation committee consists of Dennis Pardee (chair), Brian Muhs (Egyptology, NELC), and Simeon Chavel (Divinity School of the University of Chicago).
+Joseph Cross (call me Joey) is a PhD candidate in the [Department of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago. He is an Egyptologist and a Hebrew Bible scholar, and has fulfilled the PhD requirements for both Egyptology and the Hebrew Bible and Northwest Semitics programs in his department. His advisor in the latter is Dennis Pardee, and in the former, the late Robert Ritner. His dissertation committee consists of Dennis Pardee (chair), Brian Muhs (Egyptology, NELC), and Simeon Chavel (Divinity School of the University of Chicago).
 
 Joey's dissertation is entitled "Egyptian and Judean Novellas of the Achaemenian and Graeco-Roman Periods."
 
@@ -14,10 +14,11 @@ He taught in the Writing Program at the University of Chicago from 2016-2018, an
 
 Joey grew up in Lafayette, LA, and has lived in Texas, Illinois, and North Carolina. He currently lives in Kill Devil Hills, NC with his spouse and children, and is writing.
 
-he/him
+he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
-[academia.edu](https://chicago.academia.edu/JosephCross)
+[academia.edu](https://chicago.academia.edu/JosephCross)</br>
 [github](https://github.com/jjjjjjjjjjcross)<br/>
+[flikr](https://www.flickr.com/photos/crossjj/)<br/>
 [blog](https://jjjjjjjjjjcross.com/blog/) <br/>
 
 
