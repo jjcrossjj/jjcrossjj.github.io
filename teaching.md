@@ -23,7 +23,9 @@ description: Joseph Cross's teaching
 
 - welcome video [![video](icons16/video-icon.png)](https://youtu.be/qTpnFwZ4A_o)<br/>
 - syllabus - fall 2020 (online) [![pdf](icons16/pdf-icon.png)](files/syllabi/Cross.HUM124.012.Fall.2020.online.syllabus.pdf)<br/>
-- sample lecture - intro to Epictetus [![video](icons16/video-icon.png)](https://youtu.be/9qHlJSK1I2k)<br/>
+- sample lectures:
+  - intro to Epictetus [![video](icons16/video-icon.png)](https://youtu.be/9qHlJSK1I2k)<br/>
+  - intro to Confucius [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=9HT8Wy4A5BE)<br/>
 - [class wiki](https://en.wikiversity.org/wiki/The_Ancient_World_(HUM_124_-_UNC_Asheville))<br/>
 
 ##### Other

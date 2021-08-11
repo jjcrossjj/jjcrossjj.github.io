@@ -35,7 +35,7 @@ Guest lecture, CLAS 250 Mythology, University of North Carolina Asheville (_Febr
 ### 2019
 
 Books without Authors: Who Wrote (And Read) The First Novels?
-[![pdf](icons16/pdf-icon.png)](files/021419.FirstNovels.UNCA.slides.pdf)</br>
+[![pdf](icons16/pdf-icon.png)](files/021419.FirstNovels.UNCA.slides.pdf)<br/>
 Brown Bag Lecture, Ramsey Library, University of North Carolina Asheville (_February 14_)
 
 ### 2018

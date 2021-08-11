@@ -7,11 +7,7 @@ description: Joseph Cross's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <!--><li><a href="#book">book</a></li>
-            <li><a href="#articles">journal articles</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>-->
-            <li><a href="#chapters">book chapters</a></li>
+            <li><a href="#chapters">book chapters</a><li>
             <li><a href="#otherarticles">articles</a><li>
             <li><a href="#reviews">reviews</a></li>
             </ul>
