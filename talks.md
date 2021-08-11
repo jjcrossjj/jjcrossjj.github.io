@@ -17,7 +17,16 @@ Literature Workshop, Oriental Institute of the University of Chicago (_February 
 ### 2020
 
 Who Are the Samaritans?
-Oriental Institute Sunday Seminar (_August 16_)
+Sunday Seminar, Oriental Institute of the University of Chicago (_August 16_)
+
+Biblical Hebrew: An Overview
+[![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=KUB2LZj7rKQ)<br/>
+Sunday Seminar, Oriental Institute of the Univeristy of Chicago (_May 31_)
+
+Judean and Egyptian Novellas of the Achaemenid and Hellenistic Periods
+[![video](icons16/video-icon.png)](https://youtu.be/1d9npCDAbE0)<br/>
+Members' Lecture, Oriental Institute of the University of Chicago (_April 8_)
+
 
 Mythology of Ancient Egypt
 [![pdf](icons16/pdf-icon.png)](files/022520.MythologyEgypt.CLAS250.pdf)</br>
@@ -64,17 +73,3 @@ Oriental Institute Community Scholars Lecture, La Grange Public Library, La Gran
 What Can Ancient Egypt Tell Us About the Bible?
 [![pdf](icons16/pdf-icon.png)](files/031416.EgyptBible.OIVolunteers.slides.pdf)<br/>
 Volunteer's Day, Oriental Institute of the University of Chicago (_March 14_)
-
-
-<!--
-Example from kbroman.org
-
-Identifying sample mix-ups in eQTL data
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OSGA2021)
-[![video](icons16/video-icon.png)](https://youtu.be/h5gF7YnffeI)<br/>
-[NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (OSGA) Webinar
-Series](https://opar.io/training/osga-webinar-series-2020.html)
-(_Jun 11_)
--->
