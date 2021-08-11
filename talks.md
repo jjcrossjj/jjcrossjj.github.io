@@ -29,7 +29,7 @@ Members' Lecture, Oriental Institute of the University of Chicago (_April 8_)
 
 
 Mythology of Ancient Egypt
-[![pdf](icons16/pdf-icon.png)](files/022520.MythologyEgypt.CLAS250.pdf)</br>
+[![pdf](icons16/pdf-icon.png)](files/022520.MythologyEgypt.CLAS250.pdf)<br/>
 Guest lecture, CLAS 250 Mythology, University of North Carolina Asheville (_February 14_)
 
 ### 2019

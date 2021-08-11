@@ -14,8 +14,7 @@ description: Joseph Cross's publications
             <li><a href="#chapters">book chapters</a></li>
             <li><a href="#otherarticles">articles</a><li>
             <li><a href="#reviews">reviews</a></li>
-           <!--<li><a href="#thesis">dissertation</a></li>-->
-        </ul>
+            </ul>
     </div>
 </div>
 
