@@ -32,7 +32,7 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
 <tr>
   <td class="right">
     <a href="publpics/elevator.html">
-        <img src="publpics/elevator.jpg" alt="Grain elevator" title="Grain elevator"/>
+        <img src="publpics/elevator.png" alt="Grain elevator" title="Grain elevator"/>
     </a>
   </td>
   <td class="right">
