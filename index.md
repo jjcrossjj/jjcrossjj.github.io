@@ -36,8 +36,8 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
     </a>
   </td>
   <td class="right">
-    <a href="publpics/rqtl2_fig1.html">
-        <img src="publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+    <a href="publpics/triglot.html">
+        <img src="publpics/triglot.png" alt="Fragment of a Samaritan triglot Torah (Chicago OIM A6957)"/>
     </a>
   </td>
 </tr>
