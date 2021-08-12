@@ -17,7 +17,7 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
 </div>
 
 <table class="wide">
-<tr>
+<tr align="left">
   <td class="left">
     <a href="publpics/pspiegelberg.html">
         <img src="publpics/pspiegelberg.png" alt="Closeup of Papyrus Spiegelberg, col. 7" title="Portion of Papyrus Spiegelberg, col. 7"/>
@@ -29,7 +29,7 @@ keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chi
     </a>
   </td>
 </tr>
-<tr>
+<tr align="left">
   <td class="right">
     <a href="publpics/elevator.html">
         <img src="publpics/elevator.png" alt="Grain elevator" title="Grain elevator"/>
