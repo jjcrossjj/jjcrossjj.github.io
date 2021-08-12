@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Northwest Semitic text in P. Anastasi I
+title: Portion of Papyrus Spiegelberg, col. 7
 ---
 
 <div class="navbar">
@@ -12,6 +12,6 @@ title: Northwest Semitic text in P. Anastasi I
   </div>
 </div>
 
-Northwest Semitic text in P. Anastasi I
+Closeup of a fragment of a triglot Samaritan Torah codex in the Oriental Institute (Chicago), OIM A6957.
 
-![Portion of Papyrus Spiegelberg, col. 7](../bigpublpics/SemiticTexts.fig2.png)
+!["Fragment of a Samaritan triglot Torah (Chicago OIM A6957)](../bigpublpics/triglot.png)
