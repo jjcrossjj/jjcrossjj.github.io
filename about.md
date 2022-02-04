@@ -4,15 +4,13 @@ title: about
 description: Joseph Cross
 ---
 
-Joseph Cross (call me Joey) is a PhD candidate in the [Department of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago. He is an Egyptologist and a Hebrew Bible scholar, and has fulfilled the PhD requirements for both Egyptology and the Hebrew Bible and Northwest Semitics programs in his department. His advisor in the latter is Dennis Pardee, and in the former, the late Robert Ritner. His dissertation committee consists of Dennis Pardee (chair), Brian Muhs (Egyptology, NELC), and Simeon Chavel (Divinity School of the University of Chicago).
+I am a PhD candidate in the [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago, in the fields of Egyptology and Hebrew Bible. I am a historian and critic of literature, with a particular interest in the literature of storytelling, Demotic literature, and novellas of the Hebrew Bible/Old Testament.
 
-Joey's dissertation is entitled "Egyptian and Judean Novellas of the Achaemenian and Graeco-Roman Periods."
+My dissertation is entitled "The Poetics of Plot in the Egyptian and Judean Novellas." I am currently undergoing final revisions, and will defend in February 2022.
 
-Joey previously received a BS in Classics and Plan II Honors (2006) from the University of Texas at Austin, an MA in Theology (2011) at the University of Dallas, and MA in Near Eastern Languages and Civilizations (2014) at the University of Chicago.
+From 2016-2018, I taught in the Writing Program at the University of Chicago and won the Karen Dinal Memorial Award. From 2018-2020, at the University of North Carolina Asheville, I taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. I also occasionally teach adult education courses at the Oriental Institute of the University of Chicago, on topics in biblical studies and the history and archaeology of the Levant.
 
-He taught in the Writing Program at the University of Chicago from 2016-2018, and won the Karen Dinal Memorial Award for teaching writing. From 2018-2020, at the University of North Carolina Asheville, he taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. He also occasionally teaches adult education courses at the Oriental Institute of the University of Chicago, on topics in biblical studies and the history and archaeology of the Levant.
-
-Joey grew up in Lafayette, LA, and has lived in Texas, Illinois, and North Carolina. He currently lives in Kill Devil Hills, NC with his spouse and children, and is writing.
+I grew up in Lafayette, LA, and have lived in Texas, Illinois, and North Carolina. Currently, I live in Kill Devil Hills, NC with my wife Theresa and our three children.
 
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
@@ -34,9 +32,9 @@ he/him<br/>
             <a href="https://www.uchicago.edu">University of Chicago</a><br/><br/>
 
             <div id="hide_email">
-            Email: <code>jjcr</code><b>I</b><code>oss</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>uchi</code><b>leave
-            </b><code>cago</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>cros</code><b>I</b><code>s.joey</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>gma</code><b>leave
+            </b><code>il</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             </div>
         </div>
 
