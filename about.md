@@ -4,16 +4,15 @@ title: about
 description: Joseph Cross
 ---
 
-I am a PhD candidate in the [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu) at the University of Chicago, in the fields of Egyptology and Hebrew Bible. I am a historian and critic of literature, with a particular interest in the literature of storytelling, Demotic literature, and novellas of the Hebrew Bible/Old Testament.
+I am a historian and critic of literature, with a particular interest in the literature of storytelling, Demotic literature, and novellas of the Hebrew Bible/Old Testament. My dissertation was entitled "The Poetics of Plot in the Egyptian and Judean Novellas."
 
-My dissertation is entitled "The Poetics of Plot in the Egyptian and Judean Novellas." I am currently undergoing final revisions, and will defend in February 2022.
+Beginning in April 2022, I am a postdoctoral researcher in the ERC-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/de/professuren/stellen/gi/ERC%20Grant/ERC%20Grant) at the Humboldt Universität zu Berlin. I received my PhD in 2022 from the University of Chicago, [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu), in the fields of Egyptology and Hebrew Bible.
 
 From 2016-2018, I taught in the Writing Program at the University of Chicago and won the Karen Dinal Memorial Award. From 2018-2020, at the University of North Carolina Asheville, I taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. I also occasionally teach adult education courses at the Oriental Institute of the University of Chicago, on topics in biblical studies and the history and archaeology of the Levant.
 
-I grew up in Lafayette, LA, and have lived in Texas, Illinois, and North Carolina. Currently, I live in Kill Devil Hills, NC with my wife Theresa and our three children.
-
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
+[orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)
 [academia.edu](https://chicago.academia.edu/JosephCross)</br>
 [github](https://github.com/jjjjjjjjjjcross)<br/>
 [flikr](https://www.flickr.com/photos/crossjj/)<br/>
