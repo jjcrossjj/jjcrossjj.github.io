@@ -8,10 +8,10 @@ keywords: Cross, Joey, Joseph, Egyptology, Hebrew, Bible, novellas, narrative, l
 
   <div class="navbar-inner">
       <ul class="nav">
-          <!--<li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>-->
-          <!--<li><a href="https://github.com/jjcross">github</a></li>-->
+          <!--<li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>
+          <!--<li><a href="https://github.com/jjcross">github</a></li>
           <li><a href="{{ BASE_PATH}}/blog">blog</a></li>
-         <!--<li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>-->
+         <li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>-->
       </ul>
   </div>
 
