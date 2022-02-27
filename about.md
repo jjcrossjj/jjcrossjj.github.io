@@ -4,7 +4,9 @@ title: about
 description: Joseph Cross
 ---
 
-I am a historian and critic of literature, with a particular interest in the literature of storytelling, Demotic literature, and novellas of the Hebrew Bible/Old Testament. My dissertation was entitled "The Poetics of Plot in the Egyptian and Judean Novellas."
+Hello!
+
+This is Joey Cross here. I am a historian of ancient Eastern Mediterranean and North African literature, with a particular interest in the literature of storytelling, Demotic literature, and novellas of the Hebrew Bible/Old Testament. My dissertation was entitled "The Poetics of Plot in the Egyptian and Judean Novellas."
 
 Beginning in April 2022, I am a postdoctoral researcher in the ERC-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/de/professuren/stellen/gi/ERC%20Grant/ERC%20Grant) at the Humboldt Universität zu Berlin. I received my PhD in 2022 from the University of Chicago, [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu), in the fields of Egyptology and Hebrew Bible.
 
@@ -12,11 +14,11 @@ From 2016-2018, I taught in the Writing Program at the University of Chicago and
 
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
-[orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)
+[orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)<br/>
 [academia.edu](https://chicago.academia.edu/JosephCross)</br>
-[github](https://github.com/jjjjjjjjjjcross)<br/>
+[github](https://github.com/jjcrossjj)<br/>
 [flikr](https://www.flickr.com/photos/crossjj/)<br/>
-[blog](https://jjjjjjjjjjcross.com/blog/) <br/>
+[blog](https://jjcrossjj.github.io/blog/) <br/>
 
 
 ---
@@ -38,8 +40,8 @@ he/him<br/>
         </div>
 
         <div class="span2">
-        <a href="../pics/me.jpg">
-            <img src="../pics/me_small.jpg"
+        <a href="../pics/me2.jpg">
+            <img src="../pics/me2_small.jpg"
                   title="Joseph Cross" alt="Joseph Cross"/></a>
         </div>
     </div>

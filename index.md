@@ -1,17 +1,17 @@
 ---
 layout: frontpage
 title: Joseph Cross
-description: Joseph Cross is a PhD candidate in Egyptology and Hebrew Bible in the Dept. of Near Eastern Languages and Civilizations at the University of Chicago.
-keywords: Cross, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chicago, Demotic
+description: Joseph Cross, PhD University of Chicago
+
+keywords: Cross, Joey, Joseph, Egyptology, Hebrew, Bible, novellas, narrative, literature, Chicago, Demotic, Lafayette, Louisiana
 ---
 
-<div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/jjjjjjjjjjcross">github</a></li>
+          <!--<li><a href="{{ BASE_PATH }}/cross_cv.pdf">cv</a></li>-->
+          <!--<li><a href="https://github.com/jjcross">github</a></li>-->
           <li><a href="{{ BASE_PATH}}/blog">blog</a></li>
-          <li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>
+         <!--<li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>-->
       </ul>
   </div>
 </div>

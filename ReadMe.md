@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Joey Cross&rsquo;s website
 
-See [kbroman.org](https://kbroman.org).
+See [jjcrossjj.github.io](https://jjcrossjj.github.io).
 
 ---
 
