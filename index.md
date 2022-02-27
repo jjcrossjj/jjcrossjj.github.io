@@ -14,7 +14,6 @@ keywords: Cross, Joey, Joseph, Egyptology, Hebrew, Bible, novellas, narrative, l
          <!--<li><a href="https://twitter.com/jjjjjjjjjjcross">@jjjjjjjjjjcross</a></li>-->
       </ul>
   </div>
-</div>
 
 <table class="wide">
 <tr align="left">

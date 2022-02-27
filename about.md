@@ -15,7 +15,7 @@ From 2016-2018, I taught in the Writing Program at the University of Chicago and
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
 [orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)<br/>
-[academia.edu](https://chicago.academia.edu/JosephCross)</br>
+[academia.edu](https://chicago.academia.edu/JosephCross)<br/>
 [github](https://github.com/jjcrossjj)<br/>
 [flikr](https://www.flickr.com/photos/crossjj/)<br/>
 [blog](https://jjcrossjj.github.io/blog/) <br/>
