@@ -8,9 +8,9 @@ Hello!
 
 This is Joey Cross here. I am a historian of ancient Middle Eastern and North African literature, with a particular interest in the literature of storytelling. My areas of expertise are Demotic literature, novellas of the Hebrew Bible/Old Testament, and historical narratology.
 
-Currently, I am a postdoctoral researcher in the ERC-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/de/professuren/stellen/gi/ERC%20Grant/ERC%20Grant) at the Humboldt Universität zu Berlin. I received my PhD in 2022 from the University of Chicago, [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu), in the fields of Egyptology and Hebrew Bible. My dissertation was entitled "The Poetics of Plot in the Egyptian and Judean Novellas."
+Currently, I am a postdoctoral researcher in the ERC-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/de/professuren/stellen/gi/ERC%20Grant/ERC%20Grant) at the Humboldt Universität zu Berlin. I received my PhD in 2022 from the University of Chicago, [Dept. of Near Eastern Languages and Civilizations](https://nelc.uchicago.edu), in the fields of Egyptology and Hebrew Bible. My dissertation was entitled ["The Poetics of Plot in the Egyptian and Judean Novella."](https://knowledge.uchicago.edu/record/3672?ln=en)
 
-2016-2018, I taught in the Writing Program at the University of Chicago and won the Karen Dinal Memorial Award. From 2018-2020, at the University of North Carolina Asheville, I taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. also held various research and education positions at the Oriental Institute of the University of Chicago from 2015-2020.
+2016-2018, I taught in the Writing Program at the University of Chicago and won the Karen Dinal Memorial Award. From 2018-2020, at the University of North Carolina Asheville, I taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. I also held various research and education positions at the Oriental Institute of the University of Chicago from 2015-2020.
 
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
