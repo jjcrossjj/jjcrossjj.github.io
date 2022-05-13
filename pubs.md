@@ -27,3 +27,7 @@ J. Cross (2019) "Missing Pages: Two Manuscripts of the Samaritan Torah in the Or
 
 J. Cross (2020) Review of Claudia Suhr, *Die Ägyptische "Ich-Erzählung": Eine Narratologische Untersuchung* (2016), *Review of Biblical Literature* 03/2020
 [![pdf](icons16/pdf-icon.png)](files/cross.suhr.review.pdf)<br/>
+
+### <a name="dissertation"></a>dissertation
+
+J. Cross (2022) ["The Poetics of Plot in the Egyptian and Judean Novella,"](https://knowledge.uchicago.edu/record/3672?ln=en) PhD diss. Chicago.
