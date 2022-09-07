@@ -4,7 +4,74 @@ title: talks
 description: Joseph Cross's talks
 ---
 
-### 2021
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#papers">papers</a></li>
+            <li><a href="#talks">talks</a></li>
+        </ul>
+    </div>
+</div>
+
+### <a name="papers"></a>papers
+
+#### 2022
+
+A “véritable cycle romanesque?” The Relationship between P. Krall and P. Spiegelberg Reconsidered[![pdf](icons16/pdf-icon.png)](files/060922.CycleRomanesque.ICDS2022.pdf)<br/>
+14th International Demotic Congress, Heidelberg (_September 6_)
+
+#### 2021
+
+Group Writing as Text-Making Technique.[![pdf](icons16/pdf-icon.png)](files/110521.slides.GroupWriting.SSEA2021.pdf)<br/>
+Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 5_)
+
+Mouvance and the Storyteller’s Art in Manuscripts of a Demotic Novella[![pdf](icons16/pdf-icon.png)](files/052521.EstherPlot.slides.pdf)<br/>
+Early Text Cultures reading group (Oxford), “Writing Orality” series (_February 18_)
+
+#### 2020
+
+The Visual Possibilities of Narrative in the Demotic Battle for the Prebend of Amun<br/> 
+Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 7_)
+
+Finding God in Nineveh: A Case Study in Judean and Egyptian Prophetic Imagination.</br>
+Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
+
+When Storytelling Becomes Canonical: Changing Fortunes of the Novella in Hellenistic and Roman Judea and Egypt</br>
+Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
+
+Between the Cosmopolitan and the Vernacular: Private Literature in the Post-Iron Age Southeastern Mediterranean</br>
+American Schools of Oriental Research Annual Meeting, Online (_November 18th-21st_)
+
+Genre Matters: Jonah as Novella</br>
+Southeastern Commission on the Study of Religion Annual Meeting, Athens GA (_March 1_)
+
+#### 2018
+
+“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)</br>
+American Schools of Oriental Research Annual Meeting (_November 14th-17th_)
+
+Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 63</br>
+Society of Biblical	Literature Annual Meeting, Denver CO (_November 18th_)
+
+#### 2011
+
+“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23</br>
+Southwestern Conference on Religious Studies Annual Meeting, Irving TX (_March 5th_)
+
+### <a name="talks"></a>talks (selected)
+
+#### 2022
+
+Egyptian Scribes Writing Northwest Semitic[![pdf](icons16/pdf-icon.png)](files/28072022.EgyptianWritingSemitic.HU.pdf)</br>
+Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,” Theologische Fakultät, Humboldt-Universität zu Berlin (_July 28_)
+
+The Poetics of Plot in the Egyptian and Judean Novella</br>
+Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,” Theologische Fakultät, Humboldt-Universität zu Berlin (_June 3_)
+
+Inside the Academy: Getting a Humanities PhD in the US[![pdf](icons16/pdf-icon.png)](files/01062022.GettingAPhD.pdf)</br>
+Guest lecture, Graduiertenzentrum, Theologische Fakultät, Humboldt-Universität zu Berlin (_June 1_)
+
+#### 2021
 
 Getting the Story Straight: Plot Structure and Eventfulness in Esther
 [![pdf](icons16/pdf-icon.png)](files/052521.EstherPlot.slides.pdf)<br/>
@@ -26,7 +93,6 @@ Sunday Seminar, Oriental Institute of the Univeristy of Chicago (_May 31_)
 Judean and Egyptian Novellas of the Achaemenid and Hellenistic Periods
 [![video](icons16/video-icon.png)](https://youtu.be/1d9npCDAbE0)<br/>
 Members' Lecture, Oriental Institute of the University of Chicago (_April 8_)
-
 
 Mythology of Ancient Egypt
 [![pdf](icons16/pdf-icon.png)](files/022520.MythologyEgypt.CLAS250.pdf)<br/>
