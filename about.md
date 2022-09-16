@@ -29,13 +29,15 @@ he/him<br/>
     <div class="row-fluid">
         <div class="span5">
             Joseph Cross<br/>
-            <a href="https://nelc.uchicago.edu">Department of Near Eastern Languages and Civilizations</a><br/>
-            <a href="https://www.uchicago.edu">University of Chicago</a><br/><br/>
+            <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a><br/>
+            <a href="https://www.theologie.hu-berlin.de/de">Theologische Fakultät</a><br/>
+            <a href="https://www.theologie.hu-berlin.de/de">Lehrstul Geschichte Israels in der altorientalischen Welt</a><br/>
+            <a href="https://www.theologie.hu-berlin.de/en/dembib/dembib">"From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible</a><br/><br/>
 
             <div id="hide_email">
-            Email: <code>cros</code><b>I</b><code>s.joey</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>gma</code><b>leave
-            </b><code>il</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
+            Email: <code>jos</code><b>I</b><code>seph.</code><b>don't</b><code>cr</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>oss</code><b>leave
+            </b><code>@hu-ber</code><b>me</b><code>lin.c</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             </div>
         </div>
 
