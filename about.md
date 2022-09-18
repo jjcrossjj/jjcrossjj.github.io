@@ -29,15 +29,17 @@ he/him<br/>
     <div class="row-fluid">
         <div class="span5">
             Joseph Cross<br/>
-            <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a><br/>
-            <a href="https://www.theologie.hu-berlin.de/de">Theologische Fakultät</a><br/>
+            Postdoctoral Researcher<br/>
+            <a href="https://www.theologie.hu-berlin.de/en/dembib/dembib">"From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible</a>
             <a href="https://www.theologie.hu-berlin.de/de">Lehrstul Geschichte Israels in der altorientalischen Welt</a><br/>
-            <a href="https://www.theologie.hu-berlin.de/en/dembib/dembib">"From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible</a><br/><br/>
+            <a href="https://www.theologie.hu-berlin.de/de">Theologische Fakultät</a><br/>
+            <a href="https://www.hu-berlin.de/">Humboldt-Universität zu Berlin</a><br/>
+            <br/><br/>
 
             <div id="hide_email">
-            Email: <code>jos</code><b>I</b><code>seph.</code><b>don't</b><code>cr</code><b>want</b><code></code><b>spam!
+            Email: <code>jos</code><b>I</b><code>eph.</code><b>don't</b><code>cr</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>oss</code><b>leave
-            </b><code>@hu-ber</code><b>me</b><code>lin.c</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
+            </b><code>@hu-ber</code><b>me</b><code>lin.c</code><b>alone</b><code></code><b>!</b><code>om</code><br/>
             </div>
         </div>
 
