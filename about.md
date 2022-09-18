@@ -15,7 +15,7 @@ Previously, I was a Public Outreach and Content Specialist for the Education Dep
 he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/cross_cv.pdf)<br/>
 [orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)<br/>
-[academia.edu](https://chicago.academia.edu/JosephCross)<br/>
+[humanities commons](https://hcommons.org/members/jjcross/)<br/>
 [github](https://github.com/jjcrossjj)<br/>
 [flikr](https://www.flickr.com/photos/crossjj/)<br/>
 [blog](https://jjcrossjj.github.io/blog/) <br/>
