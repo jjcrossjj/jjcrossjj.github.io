@@ -33,8 +33,11 @@ he/him<br/>
             Humboldt-Universität zu Berlin<br/>
             Theologische Fakultät<br/>
             Unter den Linden 6<br/>
-            10099 Berlin<br/>
-            Germany<br/>
+            10099 Berlin DE<br/>
+                        
+            Office:
+            Burgstraße 26, Rm. 429
+            10178 Berlin
      
             <div id="hide_email">
             Email: <code>jos</code><b>I</b><code>eph.</code><b>don't</b><code>cr</code><b>want</b><code></code><b>spam!
