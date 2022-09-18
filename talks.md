@@ -62,13 +62,13 @@ Southwestern Conference on Religious Studies Annual Meeting, Irving TX (_March 5
 
 #### 2022
 
-Egyptian Scribes Writing Northwest Semitic[![pdf](icons16/pdf-icon.png)](files/28072022.EgyptianWritingSemitic.HU.pdf)</br>
+Egyptian Scribes Writing Northwest Semitic[![pdf](icons16/pdf-icon.png)](files/28072022.EgyptianWritingSemitic.HU.pdf)<br/>
 Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,” Theologische Fakultät, Humboldt-Universität zu Berlin (_July 28_)
 
-The Poetics of Plot in the Egyptian and Judean Novella</br>
+The Poetics of Plot in the Egyptian and Judean Novella<br/>
 Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,” Theologische Fakultät, Humboldt-Universität zu Berlin (_June 3_)
 
-Inside the Academy: Getting a Humanities PhD in the US[![pdf](icons16/pdf-icon.png)](files/01062022.GettingAPhD.pdf)</br>
+Inside the Academy: Getting a Humanities PhD in the US[![pdf](icons16/pdf-icon.png)](files/01062022.GettingAPhD.pdf)<br/>
 Guest lecture, Graduiertenzentrum, Theologische Fakultät, Humboldt-Universität zu Berlin (_June 1_)
 
 #### 2021
