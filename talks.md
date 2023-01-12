@@ -15,6 +15,11 @@ description: Joseph Cross's talks
 
 ### <a name="papers"></a>papers
 
+#### 2023
+
+Multiple Endings, Not Redactions in MT Esther[![pdf](icons16/pdf-icon.png)](files/20220104.EstherEndings.ATSozietaet.pdf)<br/>
+Alttestamentliche Sozietät, Theologische Fakultät, Humboldt-Universität zu Berlin (_January 4_)
+
 #### 2022
 
 A “véritable cycle romanesque?” The Relationship between P. Krall and P. Spiegelberg Reconsidered[![pdf](icons16/pdf-icon.png)](files/060922.CycleRomanesque.ICDS2022.pdf)<br/>
@@ -33,29 +38,29 @@ Early Text Cultures reading group (Oxford), “Writing Orality” series (_Febru
 The Visual Possibilities of Narrative in the Demotic Battle for the Prebend of Amun<br/> 
 Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 7_)
 
-Finding God in Nineveh: A Case Study in Judean and Egyptian Prophetic Imagination.</br>
+Finding God in Nineveh: A Case Study in Judean and Egyptian Prophetic Imagination<br/>
 Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
 
-When Storytelling Becomes Canonical: Changing Fortunes of the Novella in Hellenistic and Roman Judea and Egypt</br>
+When Storytelling Becomes Canonical: Changing Fortunes of the Novella in Hellenistic and Roman Judea and Egypt<br/>
 Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
 
-Between the Cosmopolitan and the Vernacular: Private Literature in the Post-Iron Age Southeastern Mediterranean</br>
+Between the Cosmopolitan and the Vernacular: Private Literature in the Post-Iron Age Southeastern Mediterranean<br/>
 American Schools of Oriental Research Annual Meeting, Online (_November 18th-21st_)
 
-Genre Matters: Jonah as Novella</br>
+Genre Matters: Jonah as Novella<br/>
 Southeastern Commission on the Study of Religion Annual Meeting, Athens GA (_March 1_)
 
 #### 2018
 
-“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)</br>
+“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)<br/>
 American Schools of Oriental Research Annual Meeting (_November 14th-17th_)
 
-Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 63</br>
+Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 63<br/>
 Society of Biblical	Literature Annual Meeting, Denver CO (_November 18th_)
 
 #### 2011
 
-“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23</br>
+“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23<br/>
 Southwestern Conference on Religious Studies Annual Meeting, Irving TX (_March 5th_)
 
 ### <a name="talks"></a>lectures (selected)
@@ -83,7 +88,7 @@ Literature Workshop, Oriental Institute of the University of Chicago (_February 
 
 #### 2020
 
-Who Are the Samaritans?
+Who Are the Samaritans?<br/>
 Sunday Seminar, Oriental Institute of the University of Chicago (_August 16_)
 
 Biblical Hebrew: An Overview
