@@ -17,7 +17,7 @@ description: Joseph Cross's talks
 
 #### 2023
 
-Multiple Endings, Not Redactions in MT Esther[![pdf](icons16/pdf-icon.png)](files/20220104.EstherEndings.ATSozietaet.pdf)<br/>
+Multiple Endings, Not Redactions in MT Esther[![pdf](icons16/pdf-icon.png)](files/20220104.EstherEndings.ATSozietaet.pdf); Handout [![pdf](icons16/pdf-icon.png)](files/Cross.20220104.EstherEndings.Handout.ATSozietaet.pdf)<br/>
 Alttestamentliche Sozietät, Theologische Fakultät, Humboldt-Universität zu Berlin (_January 4_)
 
 #### 2022
