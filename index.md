@@ -23,20 +23,20 @@ keywords: Cross, Joey, Joseph, Egyptology, Hebrew, Bible, novellas, narrative, l
     </a>
   </td>
   <td class="left" align="left">
-    <a href="publpics/SemiticTexts.fig2.html">
-        <img src="publpics/SemiticTexts.fig2.png" alt="Northwest Semitic text in P. Anastasi I" title="Northwest Semitic text in P. Anastasi I"/>
+    <a href="publpics/esther.html">
+        <img src="publpics/esther_thumb.png" alt="Fragment of Esther" title="Fragment of Esther"/>
     </a>
   </td>
 </tr>
 <tr align="left" align="right">
   <td class="right">
-    <a href="publpics/elevator.html">
-        <img src="publpics/elevator.png" alt="Grain elevator" title="Grain elevator"/>
+    <a href="publpics/alligator_river.html">
+        <img src="publpics/alligator_river_thumb.png" alt="Alligator River, NC" title="Alligator River, NC"/>
     </a>
   </td>
   <td class="right" align="left">
-    <a href="publpics/triglot.html">
-        <img src="publpics/triglot.png" alt="Fragment of a Samaritan triglot Torah (Chicago OIM A6957)"/>
+    <a href="publpics/me_clock.html">
+        <img src="publpics/me_clock_thumb.png" alt="Me at the Berlin Weltzeituhr"/>
     </a>
   </td>
 </tr>
