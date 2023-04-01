@@ -15,15 +15,15 @@ description: Joseph Cross's talks
 
 ### <a name="papers"></a>papers
 
-#### Upcoming
+#### upcoming
 
-Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History</br>
+Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History<br/>
 European Association of Biblical Studies Annual Conference (July 10th-13th), research unit "Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods" (with José Rafael Saade)
 
-Philology as Leisure in the Novella of Ruth</br>
+Philology as Leisure in the Novella of Ruth<br/>
 Society of Biblical Literature Annual Meeting (November 11th-21st), program unit "Philology and Biblical Studies"
 
-Are All Texts Rivers? The Ending of MT Esther and the Multitextuality of Prose Fiction in the Hellenistic Period</br>
+Are All Texts Rivers? The Ending of MT Esther and the Multitextuality of Prose Fiction in the Hellenistic Period<br/>
 Society of Biblical Literature Annual Meeting (November 11th-21st), program unit "Hebrew Scriptures and Cognate Literature"
 
 #### 2023
