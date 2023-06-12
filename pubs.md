@@ -16,15 +16,15 @@ description: Joseph Cross's publications
     </div>
 </div>
 
+### <a name="journalarticles"></a>journal articles
+
+J. Cross (forthcoming 2023/2024) "*Mouvance* and the Art of Fiction in Performance in Manuscripts of a Demotic Novella," *Manuscripts and Text Cultures*
+
 ### <a name="chapters"></a>chapters
 
 J. Cross (forthcoming 2024) "Appearance and Reality in Setna’s Dialogue with “Pharaoh” in First Setna 5.31-35." In Aurore Motte and Victoria Almansa-Villatoro, eds., <i>(Im-)Politeness in Ancient Egyptian Texts</i> (Brill, Studies in Pragmatics)<br/>
 
 J. Cross (forthcoming) "The Corpus of Northwest Semitic Texts in Egyptian Script," in Susan Hollis, ed., *Oxford Handbook of Ancient Egypt and the Hebrew Bible* (Oxford)<br/>
-
-### <a name="journalarticles"></a>journal articles
-
-J. Cross (forthcoming 2023/2024) "*Mouvance* and the Art of Fiction in Performance in Manuscripts of a Demotic Novella," *Manuscripts and Text Cultures*
 
 ### <a name="otherarticles"></a>other articles and contributions
 
