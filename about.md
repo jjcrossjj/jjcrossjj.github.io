@@ -15,7 +15,7 @@ I am also interested in the interaction and parallels between Ancient Egyptian c
 Previously, I was a Public Outreach and Content Specialist for the Education Department of the Oriental Institute of the University of Chicago from 2015-2020, where I taught continuing education courses, gave public lectures on the Ancient Near East throughout the Chicago area, and provided expertise for the museum’s docent program. Additionally, I conducted research for the [Chicago Demotic Dictionary](https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-institute-university-chicago) and for the [Critical Editions for Digital Analysis and Research project](https://voices.uchicago.edu/cedar/) at the Oriental Institute. From 2016-2018, I taught in the Writing Program at the University of Chicago and won the Karen Dinal Memorial Award. From 2018-2020, at the University of North Carolina Asheville, I taught Latin in the Dept. of Classics and The Ancient World in the Humanities Program. 
 
 he/him<br/>
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Cross.CV.Jan2023.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Joseph Cross - CV.pdf)<br/>
 [orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)<br/>
 [humanities commons](https://hcommons.org/members/jjcross/)<br/>
 [github](https://github.com/jjcrossjj)<br/>
