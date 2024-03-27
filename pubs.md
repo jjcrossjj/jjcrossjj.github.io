@@ -28,13 +28,13 @@ J. Cross (forthcoming) "The Corpus of Northwest Semitic Texts in Egyptian Script
 
 ### <a name="otherarticles"></a>other articles and contributions
 
-J. Cross (2022) “The Teaching of Amenemope,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 77-79.[![pdf](icons16/pdf-icon.png)](files/2022.AmenemopeIntro.UNCA.pdf)<br/>
+J. Cross (2022) “The Teaching of Amenemope,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 77-79.[![pdf](icons16/pdf-icon.png)](https://hcommons.org/deposits/item/hc:48061/)<br/>
 
-J. Cross (2022) “Egyptian Love Poetry,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 98-100.[![pdf](icons16/pdf-icon.png)](files/2022.LovePoetryIntro.UNCA.pdf)<br/>
+J. Cross (2022) “Egyptian Love Poetry,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 98-100.[![pdf](icons16/pdf-icon.png)](https://hcommons.org/deposits/item/hc:48063/)<br/>
 
-J. Cross (2022) “The Epic of Gilgamesh,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 236-238.[![pdf](icons16/pdf-icon.png)](files/2022.GilgameshIntro.UNCA.pdf)<br/>
+J. Cross (2022) “The Epic of Gilgamesh,” in *Global Humanities Reader: Engaging Ancient Worlds and Perspectives*, ed. Brian S. Hook, Sophie Mills, Katherine C. Zubko, Keya Maitra, 236-238.[![pdf](icons16/pdf-icon.png)](https://hcommons.org/deposits/item/hc:48065/)<br/>
 
-J. Cross (2019) "Missing Pages: Two Manuscripts of the Samaritan Torah in the Oriental Institute," *Oriental Institute News and Notes 242 (Summer 2019)
+J. Cross (2019) "Missing Pages: Two Manuscripts of the Samaritan Torah in the Oriental Institute," *Oriental Institute News and Notes* 242 (Summer 2019)
 [![pdf](icons16/pdf-icon.png)](files/cross.missingpages.pdf)<br/>
 
 ### <a name="reviews"></a>reviews
