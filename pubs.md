@@ -18,7 +18,7 @@ description: Joseph Cross's publications
 
 ### <a name="journalarticles"></a>journal articles
 
-J. Cross (2023) "*Mouvance* and the Art of Fiction in Performance in Manuscripts of a Demotic Novella," *Manuscript and Text Cultures* 2 (no. 2), 168-200. [![pdf](icons16/pdf-icon.png)](https://mtc-journal.org/index.php/mtc/article/view/43)<br/>
+J. Cross (2023) "*Mouvance* and the Art of Fiction in Performance in Manuscripts of a Demotic Novella," *Manuscript and Text Cultures* 2 (no. 2), 168-200. DOI: [10.56004/v2.2jc](https://doi.org/10.56004/v2.2jc) [![pdf](icons16/pdf-icon.png)](https://mtc-journal.org/index.php/mtc/article/view/43)<br/>
 
 ### <a name="chapters"></a>chapters
 
