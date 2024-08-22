@@ -44,7 +44,7 @@ he/him<br/>
             <div id="hide_email">
             Email: <code>jos</code><b>I</b><code>eph.</code><b>don't</b><code>cr</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>oss</code><b>leave
-            </b><code>@hu-ber</code><b>me</b><code>lin.e</code><b>alone</b><code></code><b>!</b><code>du</code><br/>
+            </b><code>@hu-ber</code><b>me</b><code>lin.d</code><b>alone</b><code></code><b>!</b><code>e</code><br/>
             </div>
         </div>
 
