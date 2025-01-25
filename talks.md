@@ -15,7 +15,7 @@ description: Joseph Cross's talks
 
 ### <a name="papers"></a>papers
 
-#### upcoming
+#### 2024
 
 Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History<br/>
 European Association of Biblical Studies Annual Conference (July 10th-13th), research unit "Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods" (with José Rafael Saade)
