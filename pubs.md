@@ -20,9 +20,13 @@ description: Joseph Cross's publications
 
 J. Cross (2023) "*Mouvance* and the Art of Fiction in Performance in Manuscripts of a Demotic Novella," *Manuscript and Text Cultures* 2 (no. 2), 168-200. DOI: [10.56004/v2.2jc](https://doi.org/10.56004/v2.2jc) [![pdf](icons16/pdf-icon.png)](https://mtc-journal.org/index.php/mtc/article/view/43)<br/>
 
+J. Cross (in review) “The Style of the Opening of the Judean Novella,” _Hebrew Bible and Ancient Israel_ (2025)<br/>
+
 ### <a name="chapters"></a>chapters
 
-J. Cross (forthcoming 2024) "Appearance and Reality in Setna’s Dialogue with “Pharaoh” in First Setna 5.31-35." In Aurore Motte and Victoria Almansa-Villatoro, eds., <i>(Im-)Politeness in Ancient Egyptian Texts</i> (Brill, Studies in Pragmatics)<br/>
+J. Cross (in review) “Esther as Novella,” in Helge Bezold and Kristin Joachimsen, eds., _Esther: Themes and Issues_ (Equinox Themes and Issues in Biblical Studies)<br/>
+
+J. Cross (forthcoming) "Appearance and Reality in Setna’s Dialogue with “Pharaoh” in First Setna 5.31-35." In Aurore Motte and Victoria Almansa-Villatoro, eds., <i>(Im-)Politeness in Ancient Egyptian Texts</i> (Brill, Studies in Pragmatics)<br/>
 
 J. Cross (forthcoming) "The Corpus of Northwest Semitic Texts in Egyptian Script," in Susan Hollis, ed., *Oxford Handbook of Ancient Egypt and the Hebrew Bible* (Oxford)<br/>
 
