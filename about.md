@@ -20,8 +20,7 @@ he/him<br/>
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Joseph Cross - CV.pdf)<br/>
 [orc id: 0000-0002-3514-9732](https://orcid.org/0000-0002-3514-9732)<br/>
 [humanities commons](https://hcommons.org/members/jjcross/)<br/>
-[github](https://github.com/jjcrossjj)<br/>
-[flikr](https://www.flickr.com/photos/crossjj/)<br/>
+[flickr](https://www.flickr.com/photos/crossjj/)<br/>
 [bluesky](https://bsky.app/profile/jjjjjjjjjjcross.bsky.social)<br/>
 [blog](https://jjcrossjj.github.io/blog/) <br/>
 
